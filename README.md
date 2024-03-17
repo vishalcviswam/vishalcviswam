@@ -11,4 +11,4 @@ Skills: DJANGO/ PHP / DATA ANALYTICS / DOCKER / FLUTTER / EXCEL
 - 🔭 I’m currently working on EduSphere Fusion (Online Learning Platform) 
 - 🌱 I’m currently learning Masters in Computer Application 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishalcviswam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+919562033782)
+[<img src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkstack.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishalcviswam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+919562033782)
