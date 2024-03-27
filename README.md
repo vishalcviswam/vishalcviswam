@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Vishal C Viswam
-![I am Master of Computer Application Student](https://github.com/vishalcviswam/vishalcviswam/blob/main/c.png)
+![I am Master of Computer Application Student](https://github.com/vishalcviswam/vishalcviswam/blob/main/VISHAL%20C%20VISWAM%20(1).png)
 #### I am Master of Computer Application Student
 
 
