@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Vishal C Viswam
 ![I am Master of Computer Application Student](https://github.com/vishalcviswam/vishalcviswam/blob/main/VISHAL%20C%20VISWAM%20(1).png)
-#### I am Master of Computer Application Student
+#### I am a Master of Computer Application Graduate
+#### Currently working as a Software Engineer in Safran AeroSpace 
 
 
 
